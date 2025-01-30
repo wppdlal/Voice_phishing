@@ -1,0 +1,11 @@
+audio-recorder-streamlit==0.0.7
+streamlit==1.17.0
+streamlit-audiorecorder==0.0.2
+pydub==0.25.1
+SpeechRecognition==3.9.0
+streamlit_webrtc==0.34.2
+pandas
+joblib
+plotly
+lightgbm==3.3.3
+streamlit-nested-layout

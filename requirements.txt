@@ -1,0 +1,4 @@
+pip install googletrans
+pip install pyaudio
+pip install wave
+pip install optuna

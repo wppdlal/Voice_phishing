@@ -1,0 +1,36 @@
+
+/* div.block-container.css-18e3th9.egzxvld2{
+    row-gap: 0px;
+} */
+
+ /* div.css-ocqkz7.e1tzin5v4{
+    column-gap: 0px;
+    background-color: white;
+    /* row-gap: 0px; */ 
+    /* gap : 0; */
+ 
+
+/* div.css-bro0bh.e1tzin5v2{
+    background-color: white;
+    /* border: 30px solid white; */
+    /* border-radius: 10px; */
+
+/* div.css-1sslkv8.e16nr0p34{
+    background-color : #f8ec9c;
+    border: 7px solid #f8ec9c;
+} */
+/* div.user-select-none.svg-container{
+    background-color : white;
+    border-radius : 10px;
+} */
+
+[data-testid="stHeader"]{
+    row-gap :0px;
+    background-color : #ffe642;
+}
+[data-testid="stVerticalBlock"]{
+    background-color : white;
+}
+div.block-container.css-18e3th9.egzxvld2{
+    background-color : #ffe642;
+}
